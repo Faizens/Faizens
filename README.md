@@ -1,15 +1,15 @@
 <div>
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
   <p align="left"> 
-    
+  
 # ABOUT ME
 
->   &nbsp;&nbsp;&nbsp; **Debian** User <br>  &nbsp;&nbsp;&nbsp; 
-
+>   &nbsp;&nbsp;&nbsp; **Debian** User <br>  &nbsp;&nbsp;&nbsp; linux
+> 
 >   &nbsp;&nbsp;&nbsp; Have good understanding
-
+>
 >   &nbsp;&nbsp;&nbsp; Loves programming, camping and watch anime.
-   
+>  
 >   &nbsp;&nbsp;&nbsp; Nice to meet you!
    
   </p>
