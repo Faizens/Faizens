@@ -2,7 +2,27 @@
 <h1>ABOUT ME</h1>
 </div>
 
-<img  class="userimg" style="width:200px;" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPjuMkGLYtxIfP79WR9iFnQ" /></div><div style="text-align: center;"><div class="spoiler"><input type="button" class="button show_button" onClick="this.nextSibling.style.display='inline-block';this.style.display='none';" data-showname="Show About Me" data-hidename="Hide About Me" value="Show About Me"><span class="spoiler_content" style="display:none"><input type="button" class="button hide_button" onClick="this.parentNode.style.display='none';this.parentNode.parentNode.childNodes[0].style.display='inline-block';" value="Hide About Me"><br><div style="text-align: right;"><span style="font-size: 60%;"><span style="color: #9e3dc2">Bio layout made by <a href="https://myanimelist.net/profile/EnD_2222" rel="nofollow"><span style="color: green"><b>EnD_2222</b></span></a></span></span></div><img  class="userimg img-a-r" style="width:420px;" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" /><div style="text-align: center;"><div class="quotetext"></div><span style="font-size: 155%;"><b>About Me</b></span></div><div class="quotetext"></div><div class="quotetext"><div style="text-align: center;">I&rsquo;ve been an anime and manga fan since 2009 Air Gear was what first got me into anime..<br />
+<div>
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="left" width="200px">
+  <p align="right">
+
+   &nbsp;
+    
+   &nbsp;&#10022; **Old cat** is my handle name, you may know me as Fauzi.
+
+   &nbsp;&#10022; Currently working as a full-time **software engineer** in Indonesia.
+
+   &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
+
+   &nbsp;&#10022; Have understanding in **Bahasa** (native), **English**.
+
+   &nbsp;&#10022; Loves programming, camping and watch anime.
+   
+   &nbsp;&#10022; Nice to meet you!
+   
+  </p>
+ </div>
+
 I&rsquo;ll watch or read pretty much anything as long as it looks cool, and I usually rate based on how much I enjoyed it..<br />
 I enjoy finding anime and manga that fit my interests, it just hits better that way.</div></div><div class="quotetext"><div style="text-align: center;">Hype doesn&rsquo;t influence what I watch I stick to anime that I personally enjoy..<br />
 <b>hi</b><br/>
