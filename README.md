@@ -4,7 +4,7 @@
   
 # ABOUT ME 
 
->   &nbsp;&nbsp;&nbsp; **Debian** User
+>   &nbsp;&nbsp;&nbsp; ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 >   <h2></h2>
 >   &nbsp;&nbsp;&nbsp; 
 >   <h2></h2>
@@ -13,8 +13,8 @@
   </p>
 </div>
 I'm a passionate Software Developer with a strong foundation in software development,<br>
-proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.</div></div><div class="quotetext"><div style="text-align: center;">Hype doesn&rsquo;t influence what I watch I stick to anime that I personally enjoy..<br />
-<b>hi</b><br/>
+proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
+
 </div></div><img class="userimg img-a-l" style="width:285px;" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
