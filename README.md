@@ -1,13 +1,11 @@
 <div align="left">
 <h1>ABOUT ME</h1>
 </div>
-
 <div>
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="400px">
   <p align="left">
 
    &nbsp;
-    
    &nbsp;&#10022; **Old cat** is my handle name
 
    &nbsp;&#10022; Currently working as a **software engineer** 
