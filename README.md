@@ -11,10 +11,9 @@
 >   &nbsp;&nbsp;&nbsp; Loves programming, camping and watch anime.
 >   <h2></h2>
 >   &nbsp;&nbsp;&nbsp; Nice to meet you!
-   
+
   </p>
  </div>
-
 I&rsquo;ll watch or read pretty much anything as long as it looks cool, and I usually rate based on how much I enjoyed it..<br />
 I enjoy finding anime and manga that fit my interests, it just hits better that way.</div></div><div class="quotetext"><div style="text-align: center;">Hype doesn&rsquo;t influence what I watch I stick to anime that I personally enjoy..<br />
 <b>hi</b><br/>
