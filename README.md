@@ -13,7 +13,9 @@
   </p>
 </div>
 I'm a passionate Software Developer with a strong foundation in software development,<br>
-proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
+proficient in applying core principles of software development and experienced with various <br>
+technologies and frameworks to tackle complex problems.
+<h2></h2>
 
 </div></div><img class="userimg img-a-l" style="width:285px;" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
 
