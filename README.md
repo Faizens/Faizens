@@ -1,22 +1,19 @@
-<div align="left">
-<h1>ABOUT ME</h1>
-</div>
 <div>
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="400px">
   <p align="left">
 
    &nbsp;
-   &nbsp;&#10022; **Old cat** is my handle name
+   &nbsp; <b>ABOUT ME</b>
 
-   &nbsp;&#10022; Currently working as a **software engineer** 
+   &nbsp; Currently working as a **software engineer** 
 
-   &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
+   &nbsp; Have good understanding of Backend and Frontend Development.
 
-   &nbsp;&#10022; Have understanding in **English**.
+   &nbsp; Have understanding in **English**.
 
-   &nbsp;&#10022; Loves programming, camping and watch anime.
+   &nbsp; Loves programming, camping and watch anime.
    
-   &nbsp;&#10022; Nice to meet you!
+   &nbsp; Nice to meet you!
    
   </p>
  </div>
