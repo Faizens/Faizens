@@ -2,7 +2,7 @@
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
   <p align="left"> 
   
-# ABOUT ME 
+# ABOUT ME (UNDER CONSTRUCTION)
 
    &nbsp;&nbsp;&nbsp; <b><font size="7">Name: Faizens</font></b>
    <h2></h2>
