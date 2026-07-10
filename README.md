@@ -1,7 +1,8 @@
 <div>
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
   <p align="left"> 
-  &nbsp;&nbsp;&nbsp; <b>ABOUT ME</b><h1></h1>
+    
+  # ABOUT ME
 
 >   &nbsp;&nbsp;&nbsp; Currently working as a **software engineer** 
 
