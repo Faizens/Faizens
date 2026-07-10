@@ -1,6 +1,6 @@
 <div>
   &nbsp; <h1><b>ABOUT ME</b></h1>
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="400px">
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="600px">
   <p align="left">
 
    &nbsp; asasasasasas
