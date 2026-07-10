@@ -4,7 +4,7 @@
   
 # ABOUT ME 
 
-   &nbsp;&nbsp;&nbsp; **Name**: **Faizens**
+   &nbsp;&nbsp;&nbsp; <b><font size="7">Name: Faizens</font></b>
    <h2></h2>
    &nbsp;&nbsp;&nbsp; Age: 20
    <h2></h2>
@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>
-      sasassadasdasdasdasdasda
+      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="pop!os">
     </td>
   </tr>
   <tr>
@@ -38,7 +38,6 @@
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
       <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
       <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
-      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="pop!os">
     </td>
   </tr>
   
