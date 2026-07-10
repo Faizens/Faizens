@@ -4,13 +4,11 @@
   
 # ABOUT ME 
 
->   &nbsp;&nbsp;&nbsp; **Debian** User <br>  &nbsp;&nbsp;&nbsp; linux
+>   &nbsp;&nbsp;&nbsp; **Debian** User
 >   <h2></h2>
->   &nbsp;&nbsp;&nbsp; Have good understanding
+>   &nbsp;&nbsp;&nbsp; 
 >   <h2></h2>
->   &nbsp;&nbsp;&nbsp; Loves programming, camping and watch anime.
->   <h2></h2>
->   &nbsp;&nbsp;&nbsp; Nice to meet you!
+>   &nbsp;&nbsp;&nbsp; Status: Unemployed 
 
   </p>
 </div>
