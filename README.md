@@ -4,7 +4,7 @@
   
 # ABOUT ME 
 
->   &nbsp;&nbsp;&nbsp; ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+>   &nbsp;&nbsp;&nbsp; 
 >   <h2></h2>
 >   &nbsp;&nbsp;&nbsp; 
 >   <h2></h2>
@@ -21,3 +21,4 @@ technologies and frameworks to tackle complex problems.
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
