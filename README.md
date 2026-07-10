@@ -4,17 +4,17 @@
   
 # ABOUT ME 
 
->   &nbsp;&nbsp;&nbsp; 
+>   &nbsp;&nbsp;&nbsp; **Name**: **Faizens**
 >   <h2></h2>
->   &nbsp;&nbsp;&nbsp; 
+>   &nbsp;&nbsp;&nbsp; Age: 20
 >   <h2></h2>
 >   &nbsp;&nbsp;&nbsp; Status: Unemployed 
 
   </p>
 </div>
-I'm a passionate Software Developer with a strong foundation in software development,<br>
-proficient in applying core principles of software development and experienced with various <br>
-technologies and frameworks to tackle complex problems.
+Honestly, i don't know shit about coding compare to others<br>
+I like larping into niche tech, thats how i learn<br>
+Its my 2nd id, so it doesnt have that many projects<br>
 <h2></h2>
 
 </div></div><img class="userimg img-a-l" style="width:285px;" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
