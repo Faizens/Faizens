@@ -1,6 +1,6 @@
 <div>
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
-  <p align="left">
+  <p align="left"> 
 
 >   &nbsp;&nbsp;&nbsp; asasasasasas
 
