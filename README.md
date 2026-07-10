@@ -8,13 +8,13 @@
 
    &nbsp;
     
-   &nbsp;&#10022; **Old cat** is my handle name, you may know me as Fauzi.
+   &nbsp;&#10022; **Old cat** is my handle name
 
-   &nbsp;&#10022; Currently working as a full-time **software engineer** in Indonesia.
+   &nbsp;&#10022; Currently working as a **software engineer** 
 
    &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
 
-   &nbsp;&#10022; Have understanding in **Bahasa** (native), **English**.
+   &nbsp;&#10022; Have understanding in **English**.
 
    &nbsp;&#10022; Loves programming, camping and watch anime.
    
