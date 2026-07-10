@@ -3,8 +3,8 @@
 </div>
 
 <div>
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="left" width="300px">
-  <p align="right">
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="300px">
+  <p align="left">
 
    &nbsp;
     
