@@ -18,7 +18,7 @@ Its my 2nd id, so it doesnt have that many projects<br>
  took me hours but at least it looks cool, I guess. It has some badges, ascii art code, music (kinda of, its mp4), pixelated profile, tech icons table, stats (languages, wakatime, leetcode, streak), animes (imgs & gifs), repo cards, pinned gists with text art and statistics
 <h2></h2>
 
-</div></div><img class="userimg img-a-l" style="width:285px;" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
+</div></div><img class="userimg img-a-l" width="285px"; src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
