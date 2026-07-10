@@ -21,9 +21,7 @@
   </p>
 </div>
 
-
-
-</div></div><img class="userimg img-a-l" width="285px"; src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
+</div></div><img class="userimg img-a-l" width="285px"; src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div></div><br/>
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
