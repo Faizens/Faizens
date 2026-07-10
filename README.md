@@ -2,13 +2,11 @@
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
   <p align="left"> 
     
-  # ABOUT ME
+# ABOUT ME
 
->   &nbsp;&nbsp;&nbsp; Currently working as a **software engineer** 
+>   &nbsp;&nbsp;&nbsp; **Debian** User <br>  &nbsp;&nbsp;&nbsp; 
 
 >   &nbsp;&nbsp;&nbsp; Have good understanding
-
->   &nbsp;&nbsp;&nbsp; Have understanding in **English**.
 
 >   &nbsp;&nbsp;&nbsp; Loves programming, camping and watch anime.
    
