@@ -2,7 +2,7 @@
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
   <p align="left"> 
   
-# ABOUT ME
+# ABOUT ME 
 
 >   &nbsp;&nbsp;&nbsp; **Debian** User <br>  &nbsp;&nbsp;&nbsp; linux
 >   <h2></h2>
