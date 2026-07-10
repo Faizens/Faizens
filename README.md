@@ -4,18 +4,22 @@
   
 # ABOUT ME 
 
->   &nbsp;&nbsp;&nbsp; **Name**: **Faizens**
->   <h2></h2>
->   &nbsp;&nbsp;&nbsp; Age: 20
->   <h2></h2>
->   &nbsp;&nbsp;&nbsp; Status: Unemployed 
+   &nbsp;&nbsp;&nbsp; **Name**: **Faizens**
+   <h2></h2>
+   &nbsp;&nbsp;&nbsp; Age: 20
+   <h2></h2>
+   &nbsp;&nbsp;&nbsp; Status: Unemployed 
 
   </p>
 </div>
-Honestly, i don't know shit about coding compare to others<br>
-I like larping into niche tech, thats how i learn<br>
-Its my 2nd id, so it doesnt have that many projects<br>
- took me hours but at least it looks cool, I guess. It has some badges, ascii art code, music (kinda of, its mp4), pixelated profile, tech icons table, stats (languages, wakatime, leetcode, streak), animes (imgs & gifs), repo cards, pinned gists with text art and statistics
+
+> Honestly, i don't know shit about coding compare to others<br>
+> I like larping into niche tech, thats how i learn<br>
+> Its my 2nd id, so it doesnt have that many projects<br>
+> took me hours but at least it looks cool, I guess. It has<br>
+> some badges, ascii art code, music (kinda of, its mp4), pixelated<br> 
+> profile, tech icons table, stats, animes (imgs & gifs), repo cards<br>
+> pinned gists with text art and statistics
 <h2></h2>
 
 </div></div><img class="userimg img-a-l" width="285px"; src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" /><div class="quotetext"></div><br/>
