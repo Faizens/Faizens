@@ -3,17 +3,17 @@
   <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
   <p align="left">
 
-   &nbsp; asasasasasas
+   &nbsp;&nbsp;&nbsp; asasasasasas
 
-   &nbsp; Currently working as a **software engineer** 
+   &nbsp;&nbsp;&nbsp; Currently working as a **software engineer** 
 
-   &nbsp; Have good understanding of Backend and Frontend Development.
+   &nbsp;&nbsp;&nbsp; Have good understanding of Backend and Frontend Development.
 
-   &nbsp; Have understanding in **English**.
+   &nbsp;&nbsp;&nbsp; Have understanding in **English**.
 
-   &nbsp; Loves programming, camping and watch anime.
+   &nbsp;&nbsp;&nbsp; Loves programming, camping and watch anime.
    
-   &nbsp; Nice to meet you!
+   &nbsp;&nbsp;&nbsp; Nice to meet you!
    
   </p>
  </div>
