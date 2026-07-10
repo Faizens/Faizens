@@ -1,6 +1,6 @@
 <div>
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
-  <p align="left"> 
+<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
+<p align="left"> 
   
 # ABOUT ME <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPjuMkGLYtxIfP79WR9iFnQ" width="50px">
 > Honestly, i don't know shit about coding compare to others<br>
