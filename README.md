@@ -14,9 +14,9 @@
    faizens@linux: ~/my_readme $ fastfetch
    ```
    <h2></h2>
-   &nbsp;&nbsp;&nbsp; Age: 20
+   EXTRA INFO
    <h2></h2>
-   &nbsp;&nbsp;&nbsp; Status: Unemployed 
+   EXTRA INFO
 
   </p>
 </div>
@@ -45,3 +45,9 @@
 </table>
 
 <div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
