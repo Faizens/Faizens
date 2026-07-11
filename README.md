@@ -10,7 +10,7 @@
 > Its my 2nd id, so it doesnt have that many projects<br>
 <h2></h2>
 
-   &nbsp;&nbsp;&nbsp; <b><font size="7">Name: Faizens</font></b>
+   &nbsp;&nbsp;&nbsp; <font size="7">Name: Faizens</font>
    <h2></h2>
    &nbsp;&nbsp;&nbsp; Age: 20
    <h2></h2>
