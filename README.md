@@ -1,8 +1,6 @@
-<div align="center">
-    <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="200px">
-    </p>
-</div>
+
+<div><p><img align="left" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="150px"></p></div>
+
 
 </div>
 
