@@ -1,6 +1,3 @@
-
-<div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="150px"></p></div>
-
 <div>
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
 <p align="left"> 
@@ -45,4 +42,4 @@
   </tr>
 </table>
 
-
+<div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
