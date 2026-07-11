@@ -10,7 +10,9 @@
 > Its my 2nd id, so it doesnt have that many projects<br>
 <h2></h2>
 
-   &nbsp;&nbsp;&nbsp; <font size="7">Name: Faizens</font>
+   ```sh
+   faizens@linux: ~/my_readme $ fastfetch
+   ```
    <h2></h2>
    &nbsp;&nbsp;&nbsp; Age: 20
    <h2></h2>
