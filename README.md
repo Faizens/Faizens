@@ -2,7 +2,7 @@
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA0LqzW3jpvdzIHmItUNfNc" align="right" width="490px">
 <p align="left"> 
   
-# ABOUT ME <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPjuMkGLYtxIfP79WR9iFnQ" width="50px">
+# ABOUT ME <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPjuMkGLYtxIfP79WR9iFnQ" width="35px">
 > Honestly, i don't know shit about coding compare to others<br>
 > I like larping into niche tech, thats how i learn<br>
 > Its my 2nd id, so it doesnt have that many projects<br>
