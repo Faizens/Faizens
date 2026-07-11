@@ -9,7 +9,8 @@
 <p align="left"> 
   
 # ABOUT ME <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPjuMkGLYtxIfP79WR9iFnQ" width="35px">
-> Honestly, i don't know shit about coding compare to others<br>
+> Honestly, i don't know shit about coding<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;compare to other tech savvies<br>
 > I like larping into niche tech, thats how i learn<br>
 > Its my 2nd id, so it doesnt have that many projects<br>
 > took me hours but at least it looks cool, I guess. It has<br>
