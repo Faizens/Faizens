@@ -7,7 +7,8 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compare to other tech savvies<br>
 > I like larping into niche tech whatever looks<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;interesting to me,thats how i learn<br>
-> Its my 2nd id, so it doesnt have that many projects<br>
+> i make random stuff i find on internet, my<br>
+> &nbsp;&nbsp;&nbsp;adhd cant focus on only one thing
 <h2></h2>
 
    ```sh
