@@ -1,6 +1,8 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=ようこそみな%20さん!&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="200px">
+    </p>
+</div>
 
 </div>
 
@@ -11,9 +13,9 @@
 # ABOUT ME <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPjuMkGLYtxIfP79WR9iFnQ" width="35px">
 > Honestly, i don't know shit about coding<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compare to other tech savvies<br>
-> I like larping into niche tech, thats how i learn<br>
+> I like larping into niche tech whatever looks<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;interesting to me,thats how i learn<br>
 > Its my 2nd id, so it doesnt have that many projects<br>
-> took me hours but at least it looks cool, I guess. It has<br>
 <h2></h2>
 
    &nbsp;&nbsp;&nbsp; <b><font size="7">Name: Faizens</font></b>
