@@ -39,6 +39,7 @@
       <img src=https://skillicons.dev/icons?i=nodejs,godot,discord><br>
       <img src=https://skillicons.dev/icons?i=vscode,git,python><br>
       <img src=https://skillicons.dev/icons?i=java,kotlin,c><br>
+      <img src=https://skillicons.dev/icons?i=cpp,><br>
     </td>
   </tr>
 </table>
