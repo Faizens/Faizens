@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>
-      <img src=https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs>
+      <img src=https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,godot,discord>
     </td>
   </tr>
 </table>
