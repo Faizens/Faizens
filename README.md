@@ -37,11 +37,10 @@
         </tr>
         <tr>
           <td>
-            <img src="https://skillicons.dev/icons?i=js,html,css,css"><br>
-            <img src="https://skillicons.dev/icons?i=nodejs,godot,discord"><br>
-            <img src="https://skillicons.dev/icons?i=vscode,git,python"><br>
-            <img src="https://skillicons.dev/icons?i=java,kotlin,c"><br>
-            <img src="https://skillicons.dev/icons?i=cpp,linux">
+            <img src="https://skillicons.dev/icons?i=js,html,css,discord"><br>
+            <img src="https://skillicons.dev/icons?i=nodejs,godot,git,python"><br>
+            <img src="https://skillicons.dev/icons?i=vscode,java,kotlin,c"><br>
+            <img src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian"><br>
           </td>
         </tr>
       </table>
@@ -56,9 +55,8 @@
         <tr>
           <td>
             <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu"><br>
-            <img src="https://skillicons.dev/icons?i="><br>
-            <img src="https://skillicons.dev/icons?i="><br>
-            <img src="https://skillicons.dev/icons?i="><br>
+            <img src="https://skillicons.dev/icons?i=debian"><br>
+            <img src="https://skillicons.dev/icons?i=kali"><br>
           </td>
         </tr>
       </table>
