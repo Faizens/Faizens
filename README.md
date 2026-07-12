@@ -26,7 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
-<big> Type shii i use for my daily basis </big>
+### Type shii i use for my daily basis 
 
 <table>
   <tr>
@@ -39,10 +39,10 @@
         </tr>
         <tr>
           <td>
-            <img src="https://skillicons.dev/icons?i=js,html,css,discord"><br>
-            <img src="https://skillicons.dev/icons?i=nodejs,godot,git,python"><br>
-            <img src="https://skillicons.dev/icons?i=vscode,java,kotlin,c"><br>
-            <img src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=js,html,css,discord,pycharm"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=nodejs,godot,git,python,python"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=vscode,java,kotlin,c"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian"><br>
           </td>
         </tr>
       </table>
