@@ -71,3 +71,16 @@
 
 <div align="center" width="200px"><p><img  src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd"></p></div>
 
+備 回 <br>
+し っ <br>
+て て <br>
+！ く <br>
+！ る <br>
+誰 ん <br>
+に だ <br>
+で か <br>
+も ら <br>
+順 。 <br>
+番    <br>
+。    <br>
+。    <br>
