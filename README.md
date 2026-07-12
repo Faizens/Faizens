@@ -36,7 +36,8 @@
   <tr>
     <td>
       <img src=https://skillicons.dev/icons?i=js,html,css,java,kotlin><br>
-      <img src=https://skillicons.dev/icons?i=nodejs,godot,discord,git><br>
+      <img src=https://skillicons.dev/icons?i=nodejs,godot,discord,git,python><br>
+      <img src=https://skillicons.dev/icons?i=vscode,><br>
     </td>
   </tr>
 </table>
