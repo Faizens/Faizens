@@ -22,7 +22,7 @@
   </p>
 </div>
 
-<div><img width="260px"; src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0"></div><br>
+<div><img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNqkUjIZ0vguqloumQsJRm0" width="285px"></div><br>
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
