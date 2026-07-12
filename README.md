@@ -40,10 +40,10 @@
         </tr>
         <tr>
           <td>
-            <img width="250" src="https://skillicons.dev/icons?i=js,html,css,discord,pycharm"><br>
-            <img width="250" src="https://skillicons.dev/icons?i=nodejs,godot,git,python,github"><br>
-            <img width="250" src="https://skillicons.dev/icons?i=vscode,java,kotlin,c,kubernetes"><br>
-            <img width="250" src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian,sqlite"><br>
+            <img width="210" src="https://skillicons.dev/icons?i=js,html,css,discord,pycharm"><br>
+            <img width="210" src="https://skillicons.dev/icons?i=nodejs,godot,git,python,github"><br>
+            <img width="210" src="https://skillicons.dev/icons?i=vscode,java,kotlin,c,kubernetes"><br>
+            <img width="210" src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian,sqlite"><br>
           </td>
         </tr>
       </table>
