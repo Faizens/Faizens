@@ -37,11 +37,11 @@
         </tr>
         <tr>
           <td>
-            <img src="https://skillicons.dev/icons?i=js,html,css"><br>
+            <img src="https://skillicons.dev/icons?i=js,html,css,css"><br>
             <img src="https://skillicons.dev/icons?i=nodejs,godot,discord"><br>
             <img src="https://skillicons.dev/icons?i=vscode,git,python"><br>
             <img src="https://skillicons.dev/icons?i=java,kotlin,c"><br>
-            <img src="https://skillicons.dev/icons?i=cpp">
+            <img src="https://skillicons.dev/icons?i=cpp,linux">
           </td>
         </tr>
       </table>
@@ -50,16 +50,15 @@
       <table>
         <tr>
           <td>
-            <font size="5"><b>TOOLS & LANGUAGE I USE</b></font>
+            <font size="5"><b>OS I USE</b></font>
           </td>
         </tr>
         <tr>
           <td>
-            <img src="https://skillicons.dev/icons?i=js,html,css"><br>
-            <img src="https://skillicons.dev/icons?i=nodejs,godot,discord"><br>
-            <img src="https://skillicons.dev/icons?i=vscode,git,python"><br>
-            <img src="https://skillicons.dev/icons?i=java,kotlin,c"><br>
-            <img src="https://skillicons.dev/icons?i=cpp">
+            <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu"><br>
+            <img src="https://skillicons.dev/icons?i="><br>
+            <img src="https://skillicons.dev/icons?i="><br>
+            <img src="https://skillicons.dev/icons?i="><br>
           </td>
         </tr>
       </table>
