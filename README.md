@@ -30,14 +30,15 @@
 <table>
   <tr>
     <td>
-     <b>TOOLS & LANGUAGE I USE<b>
+     <font size=5>TOOLS & LANGUAGE I USE<b>
     </td>
   </tr>
   <tr>
     <td>
-      <img src=https://skillicons.dev/icons?i=js,html,css,java,kotlin><br>
-      <img src=https://skillicons.dev/icons?i=nodejs,godot,discord,git,python><br>
-      <img src=https://skillicons.dev/icons?i=vscode,><br>
+      <img src=https://skillicons.dev/icons?i=js,html,css><br>
+      <img src=https://skillicons.dev/icons?i=nodejs,godot,discord><br>
+      <img src=https://skillicons.dev/icons?i=vscode,git,python><br>
+      <img src=https://skillicons.dev/icons?i=java,kotlin><br>
     </td>
   </tr>
 </table>
