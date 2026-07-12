@@ -26,13 +26,15 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
+<big> Type shii i use for my daily basis </big>
+
 <table>
   <tr>
     <td>
       <table>
         <tr>
           <td>
-            <font size="5"><b>TOOLS & LANGUAGE I USE</b></font>
+            <font size="5"><b>TOOLS & LANGUAGE</b></font>
           </td>
         </tr>
         <tr>
@@ -49,13 +51,13 @@
       <table>
         <tr>
           <td>
-            <font size="5"><b>OS I USE</b></font>
+            <font size="5"><b>OS</b></font>
           </td>
         </tr>
         <tr>
           <td>
             <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu"><br>
-            <img src="https://skillicons.dev/icons?i=debian,"><br>
+            <img src="https://skillicons.dev/icons?i=debian"><br>
             <img src="https://skillicons.dev/icons?i=kali"><br>
           </td>
         </tr>
