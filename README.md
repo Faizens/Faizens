@@ -26,7 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
-### Type shii I tried but havnt mastered yet (trying)
+### I don't know everything. I only know what I know <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;何でもは知らないわよ、知ってることだけ
 <h2></h2>
 
 <table>
