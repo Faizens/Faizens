@@ -26,7 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
-<div align=right>
+<div align=center>
 <table>
   <tr>
     <td>
