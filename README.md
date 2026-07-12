@@ -45,5 +45,24 @@
 </table>
 </div>
 
+<div align=right>
+<table>
+  <tr>
+    <td>
+     <font size=5>TOOLS & LANGUAGE I USE<b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src=https://skillicons.dev/icons?i=js,html,css><br>
+      <img src=https://skillicons.dev/icons?i=nodejs,godot,discord><br>
+      <img src=https://skillicons.dev/icons?i=vscode,git,python><br>
+      <img src=https://skillicons.dev/icons?i=java,kotlin,c><br>
+      <img src=https://skillicons.dev/icons?i=cpp,><br>
+    </td>
+  </tr>
+</table>
+</div>
+
 <div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
 
