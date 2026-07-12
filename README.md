@@ -55,7 +55,7 @@
         <tr>
           <td>
             <img src="https://skillicons.dev/icons?i=arch,mint,ubuntu"><br>
-            <img src="https://skillicons.dev/icons?i=debian"><br>
+            <img src="https://skillicons.dev/icons?i=debian,"><br>
             <img src="https://skillicons.dev/icons?i=kali"><br>
           </td>
         </tr>
