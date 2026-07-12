@@ -41,9 +41,9 @@
         <tr>
           <td>
             <img width="214" src="https://skillicons.dev/icons?i=js,html,css,discord,pycharm"><br>
-            <img width="214" src="https://skillicons.dev/icons?i=nodejs,godot,git,python,python"><br>
-            <img width="214" src="https://skillicons.dev/icons?i=vscode,java,kotlin,c"><br>
-            <img width="214" src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=nodejs,godot,git,python,github"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=vscode,java,kotlin,c,kubernetes"><br>
+            <img width="214" src="https://skillicons.dev/icons?i=cpp,linux,neovim,obsidian,rust"><br>
           </td>
         </tr>
       </table>
