@@ -69,5 +69,5 @@
 
 <h2></h2>
 
-<div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
+<div><p><img align="right"src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="350px"></p></div>
 
