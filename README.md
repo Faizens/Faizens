@@ -29,10 +29,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="pop!os">
-      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="pop!os">
-      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="pop!os">
-      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" alt="pop!os">
+     <h1>TOOLS & LANGUAGE I USE<h1>
     </td>
   </tr>
   <tr>
@@ -46,9 +43,3 @@
 </table>
 
 <div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
-
-```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```
