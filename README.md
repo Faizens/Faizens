@@ -26,7 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
-<div align=center>
+<div>
 <table>
   <tr>
     <td>
@@ -45,7 +45,7 @@
 </table>
 </div>
 
-<div align=right>
+<div>
 <table>
   <tr>
     <td>
