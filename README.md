@@ -29,17 +29,15 @@
 <table>
   <tr>
     <td>
-     <h1>TOOLS & LANGUAGE I USE<h1>
+     <b>TOOLS & LANGUAGE I USE<b>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-      <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
-      <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
+      <img src=https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs>
     </td>
   </tr>
 </table>
 
 <div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
+
