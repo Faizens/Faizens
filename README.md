@@ -26,7 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
-<p align=right>
+<div align=right>
 <table>
   <tr>
     <td>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>
-      <img src=https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,godot,discord>
+      <img width="400px" src=https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,godot,discord>
     </td>
   </tr>
 </table>
-</p>
+</div>
 
 <div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
 
