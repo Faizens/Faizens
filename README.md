@@ -26,6 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
+<p align=right>
 <table>
   <tr>
     <td>
@@ -38,6 +39,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 <div><p><img align="center" alt="count" src="https://count.getloli.com/@Faizens?name=DikaArdnt&theme=booru-lewd" width="400px"></p></div>
 
