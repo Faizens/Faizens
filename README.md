@@ -26,7 +26,7 @@
 
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwORiXD_vHbbaGQHdnPcXv1s" align="left" width="300px">
 
-### Type shii i use for my daily basis 
+### Type shii I tried but didnt mastered any of these (trying)
 <h2></h2>
 
 <table>
